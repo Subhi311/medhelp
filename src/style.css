@@ -1,0 +1,158 @@
+.hero {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.hero-label {
+  font-size: 12px;
+  background: #e8f4ee;
+  font-weight: bold;
+
+  padding: 4px 12px;
+  width: 225px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+
+  color: #89c5a3;
+}
+
+h1 {
+  font-size: 72px;
+  font-family: "Elms Sans", sans-serif;
+  font-weight: 200;
+}
+
+body {
+  background: #f7fbf9;
+}
+
+.hero-subtitle {
+  font-family: "Elms Sans", sans-serif;
+  font-size: 20px;
+  color: #7e868e;
+}
+
+.upload-box {
+  display: block;
+
+  border: 2px dashed #7e868e;
+  padding: 56px 24px;
+
+  text-align: center;
+
+  border-radius: 10px;
+  cursor: pointer;
+  max-width: 400px;
+  margin: 48px auto;
+
+  background: white;
+}
+
+.upload-box:hover {
+  background: #f7fbf9;
+  cursor: pointer;
+}
+
+.sample-link {
+  color: #82888e;
+}
+
+.how-it-works {
+  text-align: center;
+  font-size: 14px;
+  font-family: "Elms Sans", sans-serif;
+  color: #7e868e;
+
+  margin-top: 150px;
+}
+
+.how-it-works header {
+  font-weight: bold;
+  font-size: 30px;
+  color: black;
+}
+
+.three-steps {
+  display: flex;
+  justify-content: center;
+  font-size: 16px;
+  gap: 150px;
+
+  margin-top: 70px;
+}
+
+.step-one img {
+  width: 60px;
+  height: 60px;
+}
+
+.step-two img {
+  width: 60px;
+  height: 60px;
+}
+
+.step-three img {
+  width: 60px;
+  height: 60px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 50px;
+}
+
+.cards div {
+  width: 305px;
+  text-align: center;
+}
+
+.what-you-see {
+  margin-top: 200px;
+  font-family: "Elms Sans", sans-serif;
+}
+
+.clear-summary {
+  padding: 24px 24px;
+  border-radius: 25px;
+  border: 1px solid grey;
+  background: #fcfdfd;
+}
+
+.key-findings {
+  padding: 24px 24px;
+  border-radius: 25px;
+  border: 1px solid grey;
+  background: #fcfdfd;
+}
+
+.simple-exp {
+  padding: 24px 24px;
+  border-radius: 25px;
+  border: 1px solid grey;
+  background: #fcfdfd;
+}
+
+.disclaimer img {
+  width: 60px;
+  height: 60px;
+}
+
+.disclaimer {
+  text-align: center;
+  margin-top: 200px;
+  font-family: "Elms Sans", sans-serif;
+  color: #7e868e;
+
+  margin-bottom: 150px;
+}
+
+footer {
+  margin-top: 30px;
+  justify-content: center;
+  display: flex;
+  font-family: "Elms Sans", sans-serif;
+  gap: 1000px;
+}
